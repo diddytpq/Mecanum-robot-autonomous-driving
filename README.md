@@ -1,6 +1,10 @@
 # Mecanum-robot-autonomous-driving
 Mecanum robot autonomous driving based autoware
 
+```
+conda deactivate
+```
+
 ## install
 
 ### ros2 humble
