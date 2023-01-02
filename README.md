@@ -13,8 +13,15 @@ https://docs.ros.org/en/humble/Installation/Ubuntu-Install-Debians.html
 ```
 ### http_client 
 ```
-https://trytoso.tistory.com/1549
+sudo apt-get install libcpprest-dev
 ```
+
+### range-v3 
+```
+sudo apt-get install -y librange-v3-dev
+```
+
+
 
 ### autoware
 ```
